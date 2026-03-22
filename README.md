@@ -33,7 +33,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhmuhammadhamza-hs&show_icons=true&locale=en&layout=compact" alt="sheikhmuhammadhamza-hs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhmuhammadhamza-hs&" alt="sheikhmuhammadhamza-hs" /></p>
-## Hi there 👋
+
 
 <!--
 **SheikhMuhammadHamza-HS/SheikhMuhammadHamza-HS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
