@@ -81,20 +81,20 @@ PostgreSQL (Neon) • Pinecone • FAISS • ChromaDB
 
 ### Skills
 
-[![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg)](https://www.python.org/)
-[![TypeScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg)](https://www.typescriptlang.org/)
-[![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg)](https://reactjs.org/)
-[![NextJS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg)](https://nextjs.org/)
-[![TailwindCSS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg)](https://tailwindcss.com/)
-[![NodeJS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg)](https://nodejs.org/en/)
-[![FastAPI](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg)](https://fastapi.tiangolo.com/)
-[![PostgreSQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg)](https://www.postgresql.org/)
-[![AWS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg)](https://aws.amazon.com/)
-[![Docker](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg)](https://www.docker.com/)
-[![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg)](https://git-scm.com/)
-[![Figma](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg)](https://www.figma.com/)
-[![Linux](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg)](https://www.linux.org)
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJS" /></a>
+<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" /></a>
+<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="AWS" /></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 
 ---
 
