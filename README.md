@@ -108,6 +108,32 @@ PostgreSQL (Neon) • Pinecone • FAISS • ChromaDB
 
 ---
 
+### 📊 Skill Proficiency
+
+| Skill | Proficiency |
+|-------|-------------|
+| HTML | `████████████████████` 100% |
+| CSS | `████████████████████` 100% |
+| Python | `██████████████████░░` 90% |
+| JavaScript | `████████████████░░░░` 80% |
+| TypeScript | `████████████████░░░░` 80% |
+| FastAPI | `████████████████░░░░` 80% |
+| PostgreSQL (Neon) | `████████████████░░░░` 80% |
+| Git & GitHub | `████████████████░░░░` 80% |
+| LangChain / LangGraph | `████████████████░░░░` 80% |
+| RAG Pipelines | `████████████████░░░░` 80% |
+| MCP (Model Context Protocol) | `████████████████░░░░` 80% |
+| Next.js | `██████████████░░░░░░` 70% |
+| Docker | `██████████████░░░░░░` 70% |
+| AWS / Azure | `██████████████░░░░░░` 70% |
+| CrewAI | `██████████████░░░░░░` 70% |
+| Pinecone / FAISS | `██████████████░░░░░░` 70% |
+| n8n Workflow Automation | `██████████████░░░░░░` 70% |
+| Kubernetes | `████████████░░░░░░░░` 60% |
+| LlamaIndex / Haystack | `████████████░░░░░░░░` 60% |
+
+---
+
 ### Badges
 
 **My GitHub Stats**
