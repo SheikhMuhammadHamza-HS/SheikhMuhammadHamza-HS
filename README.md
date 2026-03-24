@@ -1,51 +1,126 @@
-<h1 align="center">Hi 👋, I'm Sheikh Muhammad Hamza</h1>
-<h3 align="center">🤖 Agentic AI Developer | Openai Agents Sdk• RAG • MCP | Building Autonomous AI Systems</h3>
+# Hi, I'm Sheikh Muhammad Hamza 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhmuhammadhamza-hs&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhmuhammadhamza-hs" /> </p>
+## 🤖 Agentic AI Developer | LangChain • RAG • MCP | Building Autonomous AI Systems
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhmuhammadhamza-hs" alt="sheikhmuhammadhamza-hs" /></a> </p>
+> *Turning ideas into intelligent, autonomous systems that solve real-world problems* 🚀
 
-- 🔭 I’m currently worked on [🎓 LearnFlow – AI-Powered Python Learning Platform](https://learnflow-app.vercel.app/)
+---
 
-- 🌱 I’m currently learning **Advanced LLM fine-tuning, LangGraph multi-agent orchestration, and cloud-native AI deployment**
+## 🌟 About Me
 
-- 🔭 I’m currently worked on [🤖 AI-Driven Humanoid Robotics Textbook](https://ai-spec-driven-hackathon.vercel.app/)
+- 🔭 I specialize in **Agentic AI systems, RAG pipelines & Model Context Protocol (MCP)**
+- 🤖 I build **autonomous multi-agent systems** using LangChain, LangGraph & CrewAI
+- ☁️ I deploy **cloud-native AI solutions** on AWS & Azure with FastAPI backends
+- 🎓 Pursuing **BS Computer Science** at Virtual University of Pakistan
+- 📜 Certified **Agentic AI Developer** from PIAIC
+- 🌱 Currently exploring **Advanced LLM fine-tuning & LangGraph orchestration**
+- 💬 Ask me about **LangChain, RAG, MCP, FastAPI, Generative AI**
+- 📫 Reach me at **hamzasheikh8666@gmail.com**
+- 📍 Based in **Karachi, Pakistan**
 
-- 🔭 I’m currently working on [✅ TodoPro – Full-Stack Cloud-Native Task Management](https://hackathon-full-stack-template.vercel.app/)
+---
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-iota-ten-79.vercel.app/](https://personal-portfolio-iota-ten-79.vercel.app/)
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **sheikhmhamza37@gmail.com**
+**AI & Generative AI:**
+LangChain • LangGraph • CrewAI • RAG • MCP • Pinecone • FAISS • LlamaIndex • Haystack • Fine-tuning
 
-- 📄 Know about my experiences (I'm an innovative Agentic AI Specialist and Full-Stack Developer focused on building intelligent, autonomous systems that solve real-world problems. Agentic AI & Automation Expertise: I specialize in crafting AI agents using cutting-edge frameworks like OpenAI Agent SDK and CrewAI, enabling systems that independently make decisions and execute complex tasks. I leverage FastAPI to build high-performance APIs that seamlessly integrate AI capabilities into scalable applications. With deep expertise in Model Context Protocol (MCP), I optimize model interactions for maximum efficiency and accuracy. Advanced Development Practices: I'm a strong advocate of Specification-Driven Development (SDD), ensuring every solution is built with clear requirements, robust architecture, and maintainable code. I extensively use Claude Code for agentic coding workflows, streamlining development from ideation to deployment. Cloud-Native & Digital Workforce Solutions: I design and deploy cloud-native services that scale effortlessly across modern infrastructure. Additionally, I create Digital FTEs (Full-Time Equivalents)—intelligent automation agents that handle repetitive tasks, freeing teams to focus on strategic work. Workflow Automation: As an n8n Specialist, I build sophisticated workflow automations that integrate diverse systems, streamline processes, and boost operational efficiency. Front-End Development: I craft visually stunning, high-performance web applications using HTML, CSS, JavaScript/TypeScript, Next.js, and Tailwind CSS. My focus is on responsive design, optimal performance, and intuitive user experiences powered by modern UI libraries. My Approach: I prioritize clean, modular code and future-ready architecture. Whether you need to automate workflows, build standalone AI agents, or develop full-stack applications, I deliver customized, state-of-the-art solutions. Let's collaborate and unlock the full potential of intelligent automation and modern web development together! Email: sheikhmhamza37@gmail.com whatsapp_contact: +92 3181159866)
+**Languages:**
+Python • TypeScript • JavaScript
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hamzasheikh8866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamzasheikh8866" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mrhamzasheikh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrhamzasheikh/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mhamzasheikh8866/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mhamzasheikh8866/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/75230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="75230" height="30" width="40" /></a>
-</p>
+**Backend:**
+FastAPI • Node.js • REST APIs • Microservices
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+**Frontend:**
+Next.js • React • Tailwind CSS • Figma
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhmuhammadhamza-hs&show_icons=true&locale=en&layout=compact" alt="sheikhmuhammadhamza-hs" /></p>
+**Cloud & DevOps:**
+AWS • Azure • Docker • Kubernetes • GitHub Actions • CI/CD
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhmuhammadhamza-hs&" alt="sheikhmuhammadhamza-hs" /></p>
+**Databases:**
+PostgreSQL (Neon) • Pinecone • FAISS • ChromaDB
 
+---
 
-<!--
-**SheikhMuhammadHamza-HS/SheikhMuhammadHamza-HS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects
 
-Here are some ideas to get you started:
+### 🎓 [LearnFlow – AI-Powered Python Learning Platform](https://learnflow-app.vercel.app/)
+> An innovative educational platform with AI-powered personalized tutoring for Python learners.
+- ✅ Integrated **Claude AI** as an intelligent coding tutor
+- ✅ Secure sandboxed code execution environment
+- ✅ Admin & student dashboards with analytics
+- **Stack:** Next.js 16 • FastAPI • Neon PostgreSQL • Claude AI • MCP Servers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 [AI-Driven Humanoid Robotics Textbook](https://ai-spec-driven-hackathon.vercel.app/)
+> A comprehensive educational platform for robotics using Specification-Driven Development.
+- ✅ Covers **ROS 2**, Gazebo & Unity Simulation, NVIDIA Isaac Integration
+- ✅ Multi-language support (English & Urdu)
+- **Stack:** Next.js 16 • FastAPI • Neon PostgreSQL • Docusaurus • Tailwind CSS
+
+---
+
+### ✅ [TodoPro – Full-Stack Cloud-Native Task Management](https://hackathon-full-stack-template.vercel.app/)
+> Enterprise-grade full-stack application from console app to cloud-native deployment.
+- ✅ Scalable backend APIs with **FastAPI + PostgreSQL**
+- ✅ Secure authentication & real-time task management
+- ✅ Embedded **AI Chatbot** with MCP Servers
+- **Stack:** Next.js • FastAPI • Neon PostgreSQL • TypeScript • Tailwind CSS
+
+---
+
+## 🏆 Key Achievements
+
+- 🚀 Delivered **3 production-ready AI-powered applications**
+- 🤖 Applied **Specification-Driven Development (SDD)** across all projects
+- ☁️ Built **cloud-native solutions** with focus on scalability
+- 🧠 Implemented **AI-powered features** including intelligent tutoring systems
+
+---
+
+### Skills
+
+[![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg)](https://www.python.org/)
+[![TypeScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg)](https://www.typescriptlang.org/)
+[![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg)](https://reactjs.org/)
+[![NextJS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg)](https://nextjs.org/)
+[![TailwindCSS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg)](https://tailwindcss.com/)
+[![NodeJS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg)](https://nodejs.org/en/)
+[![FastAPI](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg)](https://www.postgresql.org/)
+[![AWS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg)](https://aws.amazon.com/)
+[![Docker](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg)](https://www.docker.com/)
+[![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg)](https://git-scm.com/)
+[![Figma](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg)](https://www.figma.com/)
+[![Linux](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg)](https://www.linux.org)
+
+---
+
+### Socials
+
+[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/SheikhMuhammadHamza-HS)
+[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/mrhamzasheikh/)
+[![YouTube](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg)](https://www.youtube.com/@hamza_sheikh8866)
+[![Instagram](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg)](https://www.instagram.com/mhamzasheikh8866/)
+[![Twitter](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg)](https://x.com/HamzaSheikh8866)
+
+---
+
+### Badges
+
+**My GitHub Stats**
+
+[![SheikhMuhammadHamza-HS's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheikhMuhammadHamza-HS&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](http://www.github.com/SheikhMuhammadHamza-HS)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SheikhMuhammadHamza-HS&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/SheikhMuhammadHamza-HS)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhMuhammadHamza-HS&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/SheikhMuhammadHamza-HS)
+
+---
+
+**Top Repositories**
+
+[![LearnFlow](https://github-readme-stats.vercel.app/api/pin/?username=SheikhMuhammadHamza-HS&repo=learnflow-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/SheikhMuhammadHamza-HS)
+[![TodoPro](https://github-readme-stats.vercel.app/api/pin/?username=SheikhMuhammadHamza-HS&repo=hackathon-full-stack-template&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/SheikhMuhammadHamza-HS)
