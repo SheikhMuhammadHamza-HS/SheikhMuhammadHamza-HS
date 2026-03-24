@@ -100,11 +100,11 @@ PostgreSQL (Neon) • Pinecone • FAISS • ChromaDB
 
 ### Socials
 
-[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/SheikhMuhammadHamza-HS)
-[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/mrhamzasheikh/)
-[![YouTube](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg)](https://www.youtube.com/@hamza_sheikh8866)
-[![Instagram](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg)](https://www.instagram.com/mhamzasheikh8866/)
-[![Twitter](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg)](https://x.com/HamzaSheikh8866)
+<a href="https://www.github.com/SheikhMuhammadHamza-HS"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/mrhamzasheikh/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+<a href="https://www.youtube.com/@hamza_sheikh8866"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" /></a>
+<a href="https://www.instagram.com/mhamzasheikh8866/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
+<a href="https://x.com/HamzaSheikh8866"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a>
 
 ---
 
