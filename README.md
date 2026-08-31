@@ -6,8 +6,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hamza-sheikh-8866.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrhamzasheikh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzasheikh8666@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smhdev8866@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HamzaSheikh8866)
 ---
 
 ## 🌟 About Me
@@ -20,7 +20,7 @@
 - 🌱 Currently exploring **Advanced LLM fine-tuning & LangGraph orchestration**
 - 💼 Open to **AI Engineer / LLM Application roles** — full-time, part-time & freelance
 - 💬 Ask me about **LangChain, RAG, MCP, FastAPI, Generative AI**
-- 📫 Reach me at **hamzasheikh8666@gmail.com**
+- 📫 Reach me at **smhdev8866@gmail.com**
 - 📍 Based in **Karachi, Pakistan**
 
 ---
