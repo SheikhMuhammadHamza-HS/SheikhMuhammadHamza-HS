@@ -72,4 +72,4 @@ PostgreSQL (Neon) • Pinecone • FAISS • ChromaDB
 
 ---
 
-*⭐️ From [Sheikh Muhammad Hamza](https://github.com/SheikhMuhammadHamza)*
+*⭐️ From [Sheikh Muhammad Hamza](https://github.com/SheikhMuhammadHamza-HS/)*
